@@ -1,0 +1,20 @@
+HTTrack3.49-2 launched on Fri, 28 May 2021 15:48:18 at https://www.avodaq.com
+(winhttrack https://www.avodaq.com -O "/Users/skrug/websites/avodaq" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:48:21	Warning: 	Moved Permanently for https://www.avodaq.com/
+15:48:21	Warning: 	File has moved from https://www.avodaq.com/ to https://www.avodaq.com/en/
+15:53:32	Error: 	"Not Found" (404) at link https://www.avodaq.com/de/avodaqMeraki_Webinar.html (from https://www.avodaq.com/en/)
+15:53:36	Error: 	"Not Found" (404) at link https://www.avodaq.com/en/GET (from https://www.avodaq.com/en/)
+15:53:36	Error: 	"Not Found" (404) at link https://www.avodaq.com/en/files/avodaq/fonts/675520/54d50729-2ab7-49d5-a74c-b604d41c0c59.eot? (from https://www.avodaq.com/assets/css/9d4cb0927f2b.css)
+15:53:36	Error: 	"Not Found" (404) at link https://www.avodaq.com/en/files/avodaq/fonts/675505/e4693908-7208-4b04-93c4-8d004c3b4e1f.eot? (from https://www.avodaq.com/assets/css/9d4cb0927f2b.css)
+15:53:36	Error: 	"Not Found" (404) at link https://www.avodaq.com/de/sandbox-452356c234.html (from https://www.avodaq.com/de/sandbox-324fksdf9dc43.html)
+15:53:36	Error: 	"Not Found" (404) at link https://www.avodaq.com/en/+49.69.50%2050%2077%20809 (from https://www.avodaq.com/de/sandbox-324fksdf9dc43.html)
+15:53:36	Error: 	"Not Found" (404) at link https://www.avodaq.com/en/+49%2030%2072%206161%20709 (from https://www.avodaq.com/de/sandbox-324fksdf9dc43.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 51 seconds : 347 links scanned, 338 files written (30788346 bytes overall) [28791159 bytes received at 82026 bytes/sec], 3197959 bytes transferred using HTTP compression in 68 files, ratio 29%, 15.3 requests per connection
+(7 errors, 2 warnings, 0 messages)
